@@ -1,0 +1,43 @@
+.entete{ background-color: SkyBlue;
+}
+#image{ float: left;
+margin-left: 20px;
+margin-top: 24px;
+width: 350px;
+height: 150px;
+}
+#coordonnees{float: right;
+margin-right: 150px;
+margin-top: 50px;
+height: 80px;
+font-size: 25px;
+font-family: Verdana, arial, "arial black";
+}
+#page{
+	width:100%;
+	height: 296px;
+	border: 3px solid LightSlateGray ;
+}
+.grandaxe{
+margin-left: 220px;
+color: LightSlateGray; 
+font-family: Verdana, arial, "arial black";
+font-size: 45px
+}
+.paragraphes{
+margin-left: 200px;
+margin-right: 140px;	
+font-size: 20px;
+font-family: Verdana, arial, "Arial Black"
+}
+a{ color: black }
+.cnt{
+width: 40px;
+height: 40px;
+}
+#fin{
+	background-color: SkyBlue;
+	width: 100%;
+	height: 50px;
+		border: 3px solid LightSlateGray ;
+	}
